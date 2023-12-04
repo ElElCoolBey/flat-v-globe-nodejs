@@ -1,5 +1,7 @@
 # Why don't we see shooting stars fall "up"?
 
+![Derpy strawman](img/derpy-strawman.jpg)
+
 > TLDR: Because Earth is way bigger than this ridiculous strawman implies.
 
 The following steps are numbered and set out to be as simple as possible for anyone to follow along. If it comes across as patronising to you, I apologise, but it *was* written so that even flat Earthers wouldn't get stuck, and that if any of what I say is wrong, you can state exactly which step is wrong, and demonstrate why.
