@@ -9,7 +9,7 @@ I've made each module so simple to follow along I'm confident that even a flat E
 
 ## List of modules
 
-* `blue marbles` - Enter a date between 6//2015 and yesterday (today may work depending on your timezone) and get all the non-CGI non-composite photos showing Earth and it's curvature in its entirety, taken by EPIC on that date
+* `blue marbles` - Enter a date between 15/2/2015 and yesterday (today may work depending on your timezone) and get all the non-CGI non-composite photos showing Earth and it's curvature in its entirety, taken by EPIC on that date
 * `calculate-local-sun-altitiude` - Configure the diameter for flat Earth, place markers and plot the Sun's path before seeing how a sunset would look on that flat Earth non-model. Tweak the values and see if you can find a viable flat Earth model
 * `events-reporter` - Configure your location and see if there are any eclipses coming up. Verify these heliocentric based calculations with your own eyes (carefully) at the predicted time on the predicted date at the location you set
 * `iss-locator` - Run the module and get the current coordinates of Earth's surface directly below the ISS. Use in conjunction with the alert to verify with your own eyes when it passes over your location
